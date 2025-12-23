@@ -19,4 +19,5 @@ User → API / Bot → LangGraph Orchestrator → Agents → APIs → Memory →
 
 ## Run
 pip install -r requirements.txt
+python jwt_token.py
 python app/main.py
