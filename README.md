@@ -18,6 +18,6 @@ Enterprise-grade Agentic AI using LangGraph with:
 User → API / Bot → LangGraph Orchestrator → Agents → APIs → Memory → Observability
 
 ## Run
-pip install -r requirements.txt
-python jwt_token.py
-python -m app.main
+- pip install -r requirements.txt
+- python jwt_token.py
+- python -m app.main
