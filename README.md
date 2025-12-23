@@ -18,9 +18,9 @@ Enterprise-grade Agentic AI using LangGraph with:
 User → API / Bot → LangGraph Orchestrator → Agents → APIs → Memory → Observability
 
 ## Run
-- python -m venv venv        # Linux / Mac
+- python -m venv venv
+          
 - source venv/bin/activate   # Linux / Mac
-
 - venv\Scripts\activate      # Windows
 
 - pip install -r requirements.txt
