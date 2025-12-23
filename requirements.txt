@@ -1,0 +1,13 @@
+langgraph>=0.1.0
+langchain-core
+langchain-community==0.0.38
+langchain-openai==0.1.7
+openai==1.30.5
+redis
+chromadb
+prometheus-client
+opentelemetry-api
+opentelemetry-sdk
+typing-extensions
+python-dotenv
+pyjwt
